@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://times-neptune-cosimq.netlify.app/sitemap.xml
